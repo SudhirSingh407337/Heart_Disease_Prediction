@@ -11,6 +11,10 @@ This project focuses on **predicting heart disease risk** using advanced feature
 
 ## Dataset
 
+[![Heart Disease Prediction: Dataset](https://img.youtube.com/vi/skdoLLWcgKs/0.jpg)](https://youtu.be/skdoLLWcgKs)
+
+🎥 [Heart Disease Prediction: Dataset](https://youtu.be/skdoLLWcgKs) 🎥 
+
 The dataset contains medical records with the following features:
 
 - **Age**: Age of the patient in years
@@ -31,6 +35,11 @@ The dataset contains medical records with the following features:
 ## Key Techniques Implemented
 
 ### 1. Data Exploration & Visualization
+
+[![Heart Disease Prediction: Data Exploration & Visualization](https://img.youtube.com/vi/zi29_7ywwcQ/0.jpg)](https://youtu.be/zi29_7ywwcQ)
+
+🎥 [Heart Disease Prediction: Data Exploration & Visualization](https://youtu.be/zi29_7ywwcQ) 🎥   
+
   - Statistical summary of patient attributes
   - Distribution analysis of target variable (heart disease cases)
   - Visualization of continuous variables by heart disease status
@@ -38,6 +47,11 @@ The dataset contains medical records with the following features:
   - Identification of key relationships with heart disease risk
 
 ### 2. Feature Binning
+
+[![Heart Disease Prediction: Feature Binning](https://img.youtube.com/vi/miv8uy70Ezo/0.jpg)](https://youtu.be/miv8uy70Ezo)
+
+🎥 [Heart Disease Prediction: Feature Binning](https://youtu.be/miv8uy70Ezo) 🎥  
+
   - Three binning approaches for continuous variables:
     - Manual binning based on medical domain knowledge
     - Equal-width binning for uniform intervals
@@ -47,6 +61,11 @@ The dataset contains medical records with the following features:
   - One-hot encoding of categorical bins to capture non-linear relationships
 
 ### 3. Feature Scaling & Standardization
+
+[![Heart Disease Prediction: Feature Scaling & Standardization](https://img.youtube.com/vi/opERiuVTTG8/0.jpg)](https://youtu.be/opERiuVTTG8)
+
+🎥 [Heart Disease Prediction: Feature Scaling & Standardization](https://youtu.be/opERiuVTTG8) 🎥  
+
   - Standardization of numerical features using `StandardScaler`
   - Normalization of features to zero mean and unit variance
   - Improved convergence for distance-sensitive algorithms
@@ -54,6 +73,11 @@ The dataset contains medical records with the following features:
   - Visualization of distributions before and after scaling
 
 ### 4. Interaction Terms Creation
+
+[![Heart Disease Prediction: Interaction Terms](https://img.youtube.com/vi/CpULOVXJ1AM/0.jpg)](https://youtu.be/CpULOVXJ1AM)
+
+🎥 [Heart Disease Prediction: Interaction Terms](https://youtu.be/CpULOVXJ1AM) 🎥   
+
   - Generation of interaction features using `PolynomialFeatures`
   - Creation of pair-wise interactions between standardized features
   - Capture of combined effects between medical indicators
@@ -61,6 +85,11 @@ The dataset contains medical records with the following features:
   - Visualization of most significant interaction features
 
 ### 5. Model Training & Evaluation
+
+[![Heart Disease Prediction: Model Training & Evaluation](https://img.youtube.com/vi/Bfw_gijfG9w/0.jpg)](https://youtu.be/Bfw_gijfG9w)
+
+🎥 [Heart Disease Prediction: Model Training & Evaluation](https://youtu.be/Bfw_gijfG9w) 🎥
+
   - Creation of multiple feature sets for comparison:
     - Original features
     - Original + Scaled features
